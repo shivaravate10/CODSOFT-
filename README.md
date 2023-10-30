@@ -3,7 +3,7 @@ Title: "CodeSoft Coding Task"
 
 # CodeSoft Machine Learning Projects
 
-This repository contains a collection of machine learning projects developed by the CodeSoft team. We've tackled a variety of problems to showcase our data analysis and predictive modeling skills.
+This repository contains a collection of machine learning projects developed by the CodeSoft Intern. We've tackled a variety of problems to showcase our data analysis and predictive modeling skills.
 
 ## Project 1: Titanic Survival Prediction
 
